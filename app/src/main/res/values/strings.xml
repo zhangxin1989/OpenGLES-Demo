@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenGLESDemo</string>
+    <string name="title_activity_sampleopengldemo">Sample Opengl Demo</string>
+</resources>
